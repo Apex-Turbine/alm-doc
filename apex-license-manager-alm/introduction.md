@@ -16,6 +16,12 @@ layout:
 
 
 
+<div align="left" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/LicenseManager.svg" alt="" width="113"><figcaption></figcaption></figure>
+
+</div>
+
 #### What is the ALM?
 
 The APEX License Manager (ALM) is a utility that manages all licensing for APEX Turbine software applications. Formerly, the licensing was handled by each application.&#x20;

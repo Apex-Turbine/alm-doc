@@ -1,5 +1,7 @@
 # View Menu
 
+<figure><img src="../.gitbook/assets/ALMwindow2 - view .png" alt=""><figcaption></figcaption></figure>
+
 These menu options can be accessed either via the View menu or via the ALM icon in the system tray. These options are as follows:
 
 1. **Logs**: Opens a window that displays the logfile created by the ALM. The last line displays the location of the log file. The clear button will delete the log file. The OK button will close the log window.

@@ -2,4 +2,4 @@
 
 
 
-<figure><img src="../.gitbook/assets/placeholder image.jfif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ALMwindow2.png" alt=""><figcaption><p>The ALM GUI interface</p></figcaption></figure>

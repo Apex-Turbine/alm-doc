@@ -2,6 +2,8 @@
 
 
 
+<figure><img src="../.gitbook/assets/ALMwindow2 - gui components.png" alt=""><figcaption></figcaption></figure>
+
 1.  **Host ID(s)**: This field is common among all the License modes for the ALM. It displays a list of the composite host ids for the computer the ALM is installed on.
 
 
