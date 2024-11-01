@@ -19,7 +19,7 @@ layout:
 
 # Apex License Manager (ALM)
 
-### The licensing utility for all APEX Turbine software applications
+### Next generation licensing for APEX Turbine software applications
 
 
 

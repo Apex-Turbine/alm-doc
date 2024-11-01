@@ -2,6 +2,7 @@
 
 * [Apex License Manager (ALM)](README.md)
   * [Introduction](apex-license-manager-alm/introduction.md)
+  * [ALM Applications](apex-license-manager-alm/alm-applications.md)
 * [Getting Started](getting-started/README.md)
   * [Installation](getting-started/installation.md)
   * [Launch](getting-started/launch.md)
@@ -12,3 +13,6 @@
   * [GUI Components](alm-gui/gui-components.md)
 * [License Modes](license-modes.md)
 * [Environment Variable File](environment-variable-file.md)
+* [ALM Version History](alm-version-history/README.md)
+  * [Change Log](alm-version-history/change-log.md)
+  * [Known Issues](alm-version-history/known-issues.md)
