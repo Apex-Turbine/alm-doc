@@ -14,9 +14,9 @@ to see a list of available commands from within the terminal
   * ApexLM\_CLI.exe manage install
     * Installs Trusted Storage for APEX OpenCode licenses. Will cause a restart of the Apex LM.
   * ApexLM\_CLI.exe manage reset
-    * Reset Trusted Storage licenses for APEX ANALYSIS or APEX ACQUISITION
+    * Reset Trusted Storage licenses for APEX Trusted Storage
   * ApexLM\_CLI.exe manage delete
-    * Delete Trusted Storage licenses for APEX ANALYSIS or APEX ACQUISITION
+    * Delete Trusted Storage licenses for APEX Trusted Storage
   * ApexLM\_CLI.exe manage shutdown
     * Shutdown the ApexLM application
 
@@ -24,23 +24,23 @@ to see a list of available commands from within the terminal
 
 * **generate \<activation | update | return>**
   * ApexLM\_CLI.exe generate activation
-    * Generate an OpenCode activation request code for APEX ANALYSIS or APEX ACQUISITION
+    * Generate an OpenCode activation request code for APEX Trusted Storage
   * ApexLM\_CLI.exe generate update
-    * Generate an OpenCode update request code for the current activation for APEX ANALYSIS or APEX ACQUISITION. Used for updating the maintenance expiration date.
+    * Generate an OpenCode update request code for the current activation for APEX Trusted Storage. Used for updating the maintenance expiration date.
   * ApexLM\_CLI.exe generate return
-    * Generate OpenCode return request code for the current activation for APEX ANALYSIS or APEX ACQUISITION
+    * Generate OpenCode return request code for the current activation for APEX Trusted Storage
 
 
 
 * **process**
   * ApexLM\_CLI.exe process
-    * Process an activation or deactivation OpenCode response code from the APEX User Site activation for APEX ANALYSIS or APEX ACQUISITION
+    * Process an activation or deactivation OpenCode response code from the APEX User Site activation for APEX Trusted Storage
 
 
 
 * **cancel**
   * ApexLM\_CLI.exe cancel
-    * Cancel a current activation, update, or return request for APEX ANALYSIS or APEX ACQUISITION
+    * Cancel a current activation, update, or return request for APEX Trusted Storage
 
 
 
@@ -52,13 +52,13 @@ to see a list of available commands from within the terminal
   * ApexLM\_CLI.exe display logs
     * Display contents of the ApexLM log file on the console
   * ApexLM\_CLI.exe display status
-    * Display the ApexLM OpenCode status information for APEX ANALYSIS and APEX ACQUISITION on the console
+    * Display the ApexLM OpenCode status information for APEX Trusted Storage on the console
   * ApexLM\_CLI.exe display fulfilments
-    * Display the ApexLM OpenCode license fulfilment information for APEX ANALYSIS and APEX ACQUISITION on the console
+    * Display the ApexLM OpenCode license fulfilment information for APEX Trusted Storage on the console
   * ApexLM\_CLI.exe display records
-    * Display the ApexLM license records information request for APEX ANALYSIS and APEX ACQUISITION on the console
+    * Display the ApexLM license records information request for APEX Trusted Storage on the console
   * ApexLM\_CLI.exe display costs
-    * Display the ApexLM cost list information request for APEX ANALYSIS and APEX ACQUISITION on the console
+    * Display the ApexLM cost list information request for APEX Trusted Storage on the console
 
 
 
@@ -68,11 +68,11 @@ to see a list of available commands from within the terminal
   * ApexLM\_CLI.exe export licenses
     * Export the ApexLM license information to text file
   * ApexLM\_CLI.exe export fulfilments
-    * Export the ApexLM OpenCode license fulfilment information for APEX ANALYSIS and APEX ACQUISITION to text file
+    * Export the ApexLM OpenCode license fulfilment information for APEX Trusted Storage to text file
   * ApexLM\_CLI.exe export records
-    * Export the ApexLM license records information request for APEX ANALYSIS and APEX ACQUISITION to text file
+    * Export the ApexLM license records information request for APEX Trusted Storage to text file
   * ApexLM\_CLI.exe export costs
-    * Export the ApexLM cost list information request for APEX ANALYSIS and APEX ACQUISITION to text file
+    * Export the ApexLM cost list information request for APEX Trusted Storage to text file
 
 
 
