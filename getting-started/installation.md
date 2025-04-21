@@ -1,6 +1,6 @@
 # Installation
 
-<figure><img src="../.gitbook/assets/installer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installer2025.15 - ALM highlighted.png" alt=""><figcaption></figcaption></figure>
 
 The ALM is only available in the latest DX+ installer package. The ALM is automatically selected for installation when installing DX+.&#x20;
 

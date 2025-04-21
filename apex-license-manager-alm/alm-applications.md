@@ -14,12 +14,9 @@ layout:
 
 # ALM Applications
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/LicenseManager.svg" alt="" width="113"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/LicenseManager.svg" alt="" width="113"><figcaption></figcaption></figure></div>
 
 ### APEX Applications using ALM:
 
-* DX+
+* APEX DX+
+* APEX DX+ Data Viewer

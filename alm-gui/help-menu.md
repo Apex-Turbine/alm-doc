@@ -1,6 +1,6 @@
 # Help Menu
 
-<figure><img src="../.gitbook/assets/ALMwindow2 - help .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ALMwindow2025.15 - Help.png" alt=""><figcaption></figcaption></figure>
 
 This menu option is only available in the ALM GUI. This menu contains information about the ALM and the Qt SDK that was used to build the ALM.
 
