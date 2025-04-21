@@ -4,7 +4,7 @@
 
 **License Server**: Requires that a Flexera based license server is running on a network that the ALM has access to. This mode supports both traditional license server and TRIAD based license servers.&#x20;
 
-<figure><img src="../.gitbook/assets/license server window 2025.15 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/license server window 2025.15 (1).png" alt=""><figcaption><p>connecting to a license server on local machine at port 27010</p></figcaption></figure>
 
 After the host field is populated, click the apply button to connect to the license server. The fields in the LICENSE INFORMATION and LICENSE COUNTS groups will populate with information about the license expiration, maintenance user, company, and license features/counts.
 
